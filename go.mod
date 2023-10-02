@@ -1,3 +1,3 @@
-module github.com/myuto7/GoProject
+module goProject
 
 go 1.21.1
